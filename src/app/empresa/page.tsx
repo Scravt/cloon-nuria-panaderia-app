@@ -1,8 +1,9 @@
+import React from 'react'
 
-export default function Home() {
+export default function page () {
   return (
-    <div >
-      <main className="flex flex-col row-start-2 items-center sm:items-start">
+    <div>
+        <main className="flex flex-col row-start-2 items-center sm:items-start">
         <img
           className="w-full h-[755px]"
           src="/images/nuria-primer-local(1).jpg"
@@ -27,6 +28,7 @@ export default function Home() {
           </article>
         </div>
       </main>
+
     </div>
-  );
+  )
 }
