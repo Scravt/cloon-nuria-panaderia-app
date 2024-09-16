@@ -5,7 +5,7 @@ import React from 'react';
 export const Header = () => {
   return (
     <header className='fixed top-0 w-full'>
-      <nav className="flex items-center text-xs justify-around p-4 bg-white text-orange-500">
+      <nav className="flex items-center text-xs justify-around p-4 bg-white text-orange-500 shadow ">
         <ul className="flex gap-6">
           <li>
             <Link href="/empresa">EMPRESA  </Link>
