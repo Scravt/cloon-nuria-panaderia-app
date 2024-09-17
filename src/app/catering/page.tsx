@@ -31,18 +31,11 @@ export default function page() {
                         <p>Mesa dulce.</p>
                         <p>Servicio de Té</p>
                         <p>Servicio de Catering</p>
-                        
-
                         <Link href='/applicationform' className='bg-customBrown p-4 w-44 text-white mt-11'  >
                             Realizar Consulta
                         </Link>
-
                     </div>
-
-
-
                 </div>
-
             </section>
         </div>
     )
