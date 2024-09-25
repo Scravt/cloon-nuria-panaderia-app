@@ -17,7 +17,7 @@ export const Header = () => {
             <Link href="/catering"> CATERING </Link>
           </li>
           <li>
-            <Link href="/obsequios"> OBSEQUIOS Y AGASAJOS </Link>
+            <Link href="/gifts"> OBSEQUIOS Y AGASAJOS </Link>
           </li>
         </ul>
 

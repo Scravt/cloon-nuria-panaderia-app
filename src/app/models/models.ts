@@ -8,3 +8,14 @@ export type formValues = {
         date: string,
         message: string,
 }
+
+
+export type Product = {
+    img: string,
+    title: string,
+    description: string,
+}
+
+export type ProductList = {
+    products: Product[]
+}
